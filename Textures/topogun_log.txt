@@ -1,2 +1,6 @@
 Tip: setambientocclusionmapfile
 Tip: aotype2
+Tip: aotype2
+Tip: precision
+Tip: cosine
+Tip: wxID_STATIC
