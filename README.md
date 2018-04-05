@@ -1,1 +1,1 @@
-# NYU_Thesis_Art_Assets
+# ThesisProject_AdventureStory
